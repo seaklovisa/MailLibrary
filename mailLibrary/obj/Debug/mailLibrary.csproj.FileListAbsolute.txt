@@ -1,0 +1,5 @@
+E:\Web\mailLibrary\mailLibrary\mailLibrary\obj\Debug\mailLibrary.csprojResolveAssemblyReference.cache
+E:\Web\mailLibrary\mailLibrary\mailLibrary\bin\Debug\mailLibrary.dll
+E:\Web\mailLibrary\mailLibrary\mailLibrary\bin\Debug\mailLibrary.pdb
+E:\Web\mailLibrary\mailLibrary\mailLibrary\obj\Debug\mailLibrary.dll
+E:\Web\mailLibrary\mailLibrary\mailLibrary\obj\Debug\mailLibrary.pdb
